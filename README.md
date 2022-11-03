@@ -1,6 +1,7 @@
 ### Hi people, I'm Maria 👋
 
 - 🔭 I’m currently working as Software Engineer at StreamSets
+- 📋 Computer Science graduate at UPC
 - 😄 Pronouns: she/her
 - 📌 Location: Barcelona.
 
