@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as Software Engineer at StreamSets
 - 📋 Computer Science graduate at UPC
 - 😄 Pronouns: she/her
-- 📌 Location: Barcelona.
+- 📌 Location: Barcelona/El Perelló.
 
 <!---
 mariaabas/mariaabas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
